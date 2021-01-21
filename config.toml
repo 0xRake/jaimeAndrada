@@ -1,0 +1,51 @@
+baseURL = "https://github.com/soxfm/jaimeOzi"
+languageCode = "pt-br"
+defaultContentLanguage = "pt-br"
+title = "Jaime Andrada"
+theme = "hallo"
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+
+[Author]
+    name = "Jaime Andrada"
+
+[params]
+
+        greeting = "Cineasta e Fotografo Profissional."
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:jaimeandradatv@gmail.com"
+
+    [[params.links]]
+        icon = "flickr"
+        title = "Flickr"
+        url = "https://www.flickr.com/people/97726831@N04/"
+
+    [[params.links]]
+        icon = "instagram"
+        title = "Instagram"
+        url = "https://www.instagram.com/jaimeandrada/?hl=en"
+    [[params.links]]
+        icon = "vimeo"
+        title = "Vimeo"
+        url = "https://vimeo.com/user8336051"
+    [[params.links]]
+        icon = "linkedin"
+        title = "Linkedin"
+        url = "https://br.linkedin.com/in/jaime-andrada-01488034"
+    [[params.links]]
+        icon = "pinterest"
+        title = "Pinterest"
+        url = "https://www.pinterest.com/jaimeandrada"
+    [[params.links]]
+        icon = "facebook"
+        title = "Facebook"
+        url = "https://www.facebook.com/jaimeandradatv"
+
+    [params.colors]
+        #background = "#edf7ff"
+        background = "#8E9096"
+        foreground = "#2C313C"
+        hover = "#ffba82"
