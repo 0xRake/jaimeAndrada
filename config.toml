@@ -1,4 +1,5 @@
-baseURL = "https://github.com/soxfm/jaimeOzi"
+baseURL = "https://jaimeandrada.netlify.app"
+#baseURL = "https://github.com/soxfm/jaimeOzi"
 languageCode = "pt-br"
 defaultContentLanguage = "pt-br"
 title = "Jaime Andrada"
